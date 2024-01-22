@@ -1,0 +1,32 @@
+body{
+    background-color: hotpink;
+}
+h1{
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+h4{
+    color: aquamarine;
+
+}
+#camera{
+    height: 400px;
+    width: 500px;
+    border: 1px solid blue;
+
+
+}
+img:hover{
+   border-radius: 140px;
+
+}
+.copy_right_footer{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    line-height: 3;
+    text-align: center;
+}
